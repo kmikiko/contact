@@ -1,0 +1,38 @@
+
+.contact tr{
+    height: 7rem;
+    text-align: left;
+    font-size: 1.5rem;
+}
+
+.contact td{
+    margin : 0;
+    
+}
+
+.contact th{
+    width: 150px;
+    text-align: right;
+    height: 7rem;
+    font-size: 1.5rem;
+    padding-right: 10px;
+}
+
+.btn_submit{
+    
+    text-align: center;
+    
+}
+
+.submit_btn{
+    background-color: #008B8B;
+    font-size: 3rem;
+    color: white;
+    border: 10px solid #008B8B;
+    margin-top: 10px;
+}
+
+.btn_submit :hover{
+    opacity:0.5;
+    cursor: pointer;
+}
